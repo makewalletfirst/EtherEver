@@ -22,7 +22,7 @@ import "github.com/ethereum/go-ethereum/common"
 // the main Ethereum network.
 var MainnetBootnodes = []string{
 	// Ethereum Foundation Go Bootnodes
-	"enode://8fe5e4a2060fc1615a0e6ca80758daf86d6e9f24f18682728ed12568cd3be13fcc734c8bb197a1b94e58b3d3170004749d4b6f651d48d0382576920efa883d8f@127.0.0.1:30303",
+	"enode://8fe5e4a2060fc1615a0e6ca80758daf86d6e9f24f18682728ed12568cd3be13fcc734c8bb197a1b94e58b3d3170004749d4b6f651d48d0382576920efa883d8f@etherevernode.ever-chain.xyz:30303",
 }
 
 // HoleskyBootnodes are the enode URLs of the P2P bootstrap nodes running on the
