@@ -37,12 +37,14 @@ EtherEver is a live Ethereum-equivalent PoW chain built as a fully accessible en
 ### Block Explorer
 - **EtherEver Explorer** — [etherever.ever-chain.xyz](https://etherever.ever-chain.xyz)  
   BlockScout-based. Displays per-block mining rewards for all historical blocks.  
-  *(Core-Geth modified with Nethermind-compatible mode to enable transparent reward data.)*
+  *(Core-Geth modified with Nethermind-compatible mode to enable transparent reward data.)*  
+  Source: [makewalletfirst/EtherEver-BlockScout7](https://github.com/makewalletfirst/EtherEver-BlockScout7)
 
 ### Mobile Wallet
 - Custom **EtherEver MetaMask** app — Android APK available  
 - EtherEver network pre-configured — no manual RPC setup required  
-- Full GUI wallet management without command-line
+- Full GUI wallet management without command-line  
+- Source: [makewalletfirst/EtherEver-Metamask8](https://github.com/makewalletfirst/EtherEver-Metamask8)
 
 ### Developer Environment
 - 100% compatible with standard Ethereum dev tools: **Hardhat**, **Foundry**, **Remix IDE**
@@ -117,12 +119,13 @@ eth.blockNumber        // current block height
 
 ## Links
 
-| Resource | URL |
-|---|---|
-| Block Explorer | https://etherever.ever-chain.xyz |
-| Discord | https://discord.com/invite/dfSF58pzZB |
-| YouTube | http://www.youtube.com/@지만쫌 |
-| GitHub | https://github.com/makewalletfirst |
+| Resource | URL | Source |
+|---|---|---|
+| Block Explorer | https://etherever.ever-chain.xyz | [GitHub](https://github.com/makewalletfirst/EtherEver-BlockScout7) |
+| MetaMask Wallet | [Download](https://ever-chain.xyz/ethereverwallet.html) | [GitHub](https://github.com/makewalletfirst/EtherEver-Metamask8) |
+| Discord | https://discord.com/invite/dfSF58pzZB | — |
+| YouTube | http://www.youtube.com/@지만쫌 | — |
+| GitHub | https://github.com/makewalletfirst | — |
 
 ---
 
